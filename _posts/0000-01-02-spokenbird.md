@@ -1,6 +1,7 @@
 
 ---
-title: "Welcome to our second slide!"
+Awesome
 ---
-Your text
+It's the sauce of life
+
 Use the left arrow to go back!
